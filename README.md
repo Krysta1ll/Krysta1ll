@@ -1,37 +1,64 @@
-### Hi there, I'm Krysta1ll 👋
+<p align="center">
+  <img src="https://capsule-render.vercel.app/view?type=waving&color=702cf6&height=220&section=header&text=WELCOME%20TO%20MY%20DIMENSION&fontSize=50&animation=fadeIn&fontAlignY=35&theme=tokyonight" />
+</p>
 
-- 🌱 中南大学软件工程专业学士，香港城市大学数据工程硕士，正在学习 C++, Java, JS, HTML, Python
-- 💞️ 一起摆烂吗？
-- 📫 联系我：20033552wty@gmail.com
+<table align="center" border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <td width="65%" valign="top">
+      <h3>✨ <kbd>System.out.println("Hello, World!");</kbd></h3>
+      <p align="left">
+        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=9C70F6&center=false&vCenter=false&width=435&lines=“中南大学软件工程学士;正在攻读数据科学硕士;Kotlin+Java+C++;" alt="Typing SVG" />
+      </p>
+      <p>
+        🔭 <b>目前状态：</b> 正在维护几个不打算填坑的项目 <br>
+        🎮 <b>兴趣领域：</b> 全栈开发 <br>
+        💬 <b>日常：</b> 别卡pr
+      </p>
+      <p>
+        <a href="mailto:20033552wty@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+      </p>
+    </td>
+    <td width="35%" align="center">
+      <img src="https://raw.githubusercontent.com/Ileriayo/markdown-badges/master/biography-assets/anime_girl.gif" width="200" />
+    </td>
+  </tr>
+</table>
 
-### 😜 Commit Stats
+<br/>
 
+<h3 align="center">🛠 技术栈 🛠</h3>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,rust,nodejs,mongodb,docker,git,linux,vscode,ps&theme=dark" />
+  </a>
+</p>
 
-![](https://github-profile-trophy.vercel.app/?username=Krysta1ll&theme=synthwave&row=1)
+<br/>
 
-![](https://github-readme-stats.vercel.app/api?username=Krysta1ll&count_private=true&show_icons=true&theme=synthwave&show_owner=true)
+<h3 align="center">📊 幻想维度同步数据</h3>
+<p align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Krysta1ll&show_icons=true&theme=tokyonight&bg_color=0D1117&border_color=702cf6&title_color=9C70F6&icon_color=9C70F6" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krysta1ll&layout=compact&theme=tokyonight&bg_color=0D1117&border_color=702cf6&title_color=9C70F6" />
+</p>
 
+<br/>
 
-### 🛠 技术栈
+<h3 align="center">🐍 贪吃蛇代码足迹</h3>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Krysta1ll/Krysta1ll/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Krysta1ll/Krysta1ll/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Krysta1ll/Krysta1ll/output/github-contribution-grid-snake.svg">
+  </picture>
+</p>
 
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java)
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5)
-![Python](https://img.shields.io/badge/-Python-yellow?style=flat&logo=Python)
-### 🦁 Top Languages
+<br/>
 
-![](https://github-profile-trophy.vercel.app/?username=Krysta1ll&theme=onedark&row=1)
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</p>
 
-
-### 🌐 社交链接
-
-
-[![Twitter](https://img.shields.io/twitter/url?label=%40KrystaI_OwO&style=social&url=https%3A%2F%2Ftwitter.com%2FKrystaI_OwO)](https://twitter.com/KrystaI_OwO)
-
-
-
-<!---
-Krysta1ll/Krysta1ll is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=你的用户名&color=702cf6&style=flat-square&label=DIMENSION+VISITORS" />
+</p>
