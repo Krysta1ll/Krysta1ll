@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/view?type=waving&color=702cf6&height=220&section=header&text=WELCOME%20TO%20MY%20DIMENSION&fontSize=50&animation=fadeIn&fontAlignY=35&theme=tokyonight" />
-</p>
 
 <table align="center" border="0" cellpadding="0" cellspacing="0">
   <tr>
@@ -34,16 +31,12 @@
 </p>
 
 <br/>
-
-<h3 align="center">📊 幻想维度同步数据</h3>
 <p align="center">
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=Krysta1ll&show_icons=true&theme=tokyonight&bg_color=0D1117&border_color=702cf6&title_color=9C70F6&icon_color=9C70F6" />
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krysta1ll&layout=compact&theme=tokyonight&bg_color=0D1117&border_color=702cf6&title_color=9C70F6" />
 </p>
 
 <br/>
-
-<h3 align="center">🐍 贪吃蛇代码足迹</h3>
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Krysta1ll/Krysta1ll/output/github-contribution-grid-snake-dark.svg">
@@ -60,5 +53,5 @@
 
 ---
 <p align="right">
-  <img src="https://komarev.com/ghpvc/?username=你的用户名&color=702cf6&style=flat-square&label=DIMENSION+VISITORS" />
+  <img src="https://komarev.com/ghpvc/?username=Krysta1ll&color=702cf6&style=flat-square&label=DIMENSION+VISITORS" />
 </p>
