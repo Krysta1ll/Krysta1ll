@@ -1,9 +1,8 @@
 ### Hi there, I'm Krysta1ll 👋
 
-- 👀 管人痴，电子游戏高度上瘾患者，学不懂高等数学
-- 🌱 中南大学软糖工程专业在读，正在学习 C++, Java, JS, HTML, Python
+- 🌱 中南大学软件工程专业学士，香港城市大学数据工程硕士，正在学习 C++, Java, JS, HTML, Python
 - 💞️ 一起摆烂吗？
-- 📫 联系我：1760739491@qq.com
+- 📫 联系我：20033552wty@gmail.com
 
 ### 😜 Commit Stats
 
