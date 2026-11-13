@@ -23,10 +23,10 @@
 
 ```yaml
 profile:
-  origin: "Taipei, Taiwan 🇹🇼"
+  origin: "Taipei, Taiwan"
   location: "Tokyo, Japan 🇯🇵"
   languages:
-    - "Traditional Chinese (繁體中文 / 台灣華語 · Native)"
+    - "Traditional Chinese (繁體中文 · Native)"
     - "Japanese (日本語 · Business)"
     - "English (Professional)"
 education:
