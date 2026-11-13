@@ -1,91 +1,79 @@
-<div align="center">
-
-  # ✦ Hi there, I'm Krystal Wang ✦
-  
-  <p>
-    <a href="https://github.com/Krysta1ll">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=9C70F6&center=true&vCenter=true&width=580&lines=Software+Engineer+in+Tokyo%2C+Japan+%F0%9F%87%AF%F0%9F%87%B5;Originally+from+Taipei%2C+Taiwan+%F0%9F%87%B9%F0%9F%87%BC;macOS+Native+%7C+AI+Agents+%7C+Input+Method+Engines;Crafting+robust+%26+delightful+software." alt="Typing SVG" />
-    </a>
-  </p>
-
-  <p>
-    <img src="https://img.shields.io/badge/Location-Tokyo%2C%20Japan%20%F0%9F%87%AF%F0%9F%87%B5-EA4335?style=flat-square" alt="Location" />
-    <img src="https://img.shields.io/badge/Origin-Taipei%2C%20Taiwan%20%F0%9F%87%B9%F0%9F%87%BC-0052CC?style=flat-square" alt="Origin" />
-    <img src="https://img.shields.io/badge/Languages-%E7%B9%81%E9%AB%94%E4%B8%AD%E6%96%87%20%7C%20%E6%97%A5%E6%9C%AC%E8%AA%9E%20%7C%20EN-702cf6?style=flat-square" alt="Languages" />
-    <img src="https://komarev.com/ghpvc/?username=Krysta1ll&color=702cf6&style=flat-square&label=VISITORS" alt="Visitors" />
-  </p>
-
-</div>
-
----
-
-### 👨‍💻 關於我 / About Me / 自己紹介
-
-```yaml
-profile:
-  origin: "Taipei, Taiwan"
-  location: "Tokyo, Japan 🇯🇵"
-  languages:
-    - "Traditional Chinese (繁體中文 · Native)"
-    - "Japanese (日本語 · Business)"
-    - "English (Professional)"
-education:
-  bachelor: "National Taiwan University (NTU) · B.S. in CSIE"
-  master: "M.S. in Data Science & AI 🎓 (Tokyo, Japan)"
-focus:
-  - "macOS Native Applications & Input Method Engines (Zhuyin / Kana / Pinyin)"
-  - "AI Agents & LLM Applications"
-  - "RPA & Intelligent Workflow Automation"
-philosophy:
-  motto: "Turn ideas into elegant code & automated workflows."
-  status: "Shipping native macOS tools & AI systems in Tokyo 🗼"
-```
-
----
-
-### 🛠️ 技術棧 / Tech Stack
-
-<div align="center">
-
-| 類別 | 核心技術與生態系 |
-| :--- | :--- |
-| **Languages** | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=swift,ts,js,python,java,cpp,rust&theme=dark" /></a> |
-| **Frontend & Web** | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=react,nextjs,vue,tailwind,html,css&theme=dark" /></a> |
-| **Backend & Cloud** | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=nodejs,fastapi,spring,mongodb,mysql,docker&theme=dark" /></a> |
-| **Workflow & Ops** | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=apple,git,githubactions,linux,vscode&theme=dark" /></a> |
-
-</div>
-
----
-
-### 📌 精選專案 / Featured Projects
-
-<div align="center">
-  <table border="0">
-    <tr>
-      <td width="50%">
-        <a href="https://github.com/Krysta1ll/Meowpuut">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Krysta1ll&repo=Meowpuut&theme=tokyonight&bg_color=0D1117&border_color=702cf6&title_color=9C70F6" width="100%" />
-        </a>
-      </td>
-      <td width="50%">
-        <a href="https://github.com/Krysta1ll/Meowpuut-Core">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Krysta1ll&repo=Meowpuut-Core&theme=tokyonight&bg_color=0D1117&border_color=702cf6&title_color=9C70F6" width="100%" />
-        </a>
-      </td>
-    </tr>
-  </table>
-</div>
-
----
-
-### 📊 GitHub 統計 / Activity & Stats
-
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Krysta1ll&show_icons=true&theme=tokyonight&bg_color=0D1117&border_color=702cf6&title_color=9C70F6&icon_color=9C70F6&rank_icon=github" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krysta1ll&layout=compact&theme=tokyonight&bg_color=0D1117&border_color=702cf6&title_color=9C70F6" />
+  <img src="assets/studio.svg" width="100%" alt="Krystal 的软件工坊：用心做工具，给细节一点趣味。灰猫与奶油猫一起趴在键盘上。" />
 </p>
 
 <p align="center">
-  <img height="140" src="https://github-readme-streak-stats.herokuapp.com/?user=Krysta1ll&theme=tokyonight&background=0D1117&border=702CF6&ring=9C70F6&fire=9C70F6&currStreakLabel=9C70F6" />
+  <a href="#about">关于我</a> &nbsp;·&nbsp;
+  <a href="#work">作品</a> &nbsp;·&nbsp;
+  <a href="#toolbox">工具箱</a> &nbsp;·&nbsp;
+  <a href="https://github.com/Krysta1ll?tab=repositories">所有仓库 ↗</a>
+</p>
+
+<br />
+
+<a id="about"></a>
+### 01 / 一点自我介绍
+
+我是 **Krystal**，喜欢把日常使用中的小摩擦，写成顺手的小工具。
+
+这里主要放输入法、原生应用，以及 AI 与自动化方面的探索。比起堆叠功能，我更在意输入是否流畅、界面是否清楚，以及那些每天会碰到的小细节。
+
+最近的重心是 **喵扑 Meowpuut**：让中文、日文与英文在同一个输入过程中自然衔接。两只猫负责陪伴，代码负责把事情做好。
+
+*I build input methods, native apps and small experiments in AI, with care for the details people use every day.*
+
+<br />
+
+<a id="work"></a>
+### 02 / 正在打磨的作品
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+#### 喵扑 · Meowpuut
+**从一次顺手的输入开始。**
+
+注音、拼音、中日混打与英文混输。把输入引擎和两只猫，装进每天都在用的键盘里。
+
+iPhone / iPad · macOS · Android · Windows
+
+[看看喵扑 ↗](https://github.com/Krysta1ll/Meowpuut)
+
+</td>
+<td width="50%" valign="top">
+
+#### Meowpuut Core
+**界面之下，字句之间。**
+
+喵扑共用的 Rust 引擎、C 接口与词库。处理句子分段、候选排序，以及跨语言输入。
+
+Rust · C FFI · Lexicon
+
+[走进核心 ↗](https://github.com/Krysta1ll/Meowpuut-Core)
+
+</td>
+</tr>
+</table>
+
+<br />
+
+<a id="toolbox"></a>
+### 03 / 工具箱与关注点
+
+| 方向 | 我在意的事 |
+| :--- | :--- |
+| **输入与语言** | 注音、拼音、混合输入、词库和候选排序 |
+| **原生应用** | 系统集成、响应速度、清楚而克制的界面 |
+| **AI 与自动化** | 把重复步骤交给工具，把注意力留给真正要做的事 |
+
+**常用工具** &nbsp; Swift · Rust · Python · TypeScript · Git
+
+<br />
+
+---
+
+<p align="center">
+  <sub>把复杂留给代码，把轻松留给使用的人。</sub><br />
+  <sub>Small tools, made with care. &nbsp; / &nbsp; Krysta1ll</sub>
 </p>
